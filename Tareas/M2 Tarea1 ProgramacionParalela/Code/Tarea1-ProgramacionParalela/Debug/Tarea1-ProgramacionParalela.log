@@ -1,0 +1,4 @@
+﻿  Tarea1-ProgramacionParalela.cpp
+C:\Users\Z0115350\source\repos\Tarea1-ProgramacionParalela\Tarea1-ProgramacionParalela\Tarea1-ProgramacionParalela.cpp(22,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Z0115350\source\repos\Tarea1-ProgramacionParalela\Tarea1-ProgramacionParalela\Tarea1-ProgramacionParalela.cpp(23,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tarea1-ProgramacionParalela.vcxproj -> C:\Users\Z0115350\source\repos\Tarea1-ProgramacionParalela\Debug\Tarea1-ProgramacionParalela.exe
